@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="groovy-4.0.14">
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-docgenerator-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-datetime-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-cli-picocli-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-cli-commons-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-ginq-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-jsr223-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-groovysh-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-jmx-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-json-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-macro-library-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-macro-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-servlet-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-dateutil-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-astbuilder-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-sql-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-test-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-templates-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-swing-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-test-junit5-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-testng-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-typecheckers-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-nio-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-ant-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-contracts-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-groovydoc-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-xml-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-toml-4.0.14.jar" />
+    <archive path="/home/raiza-antoneli/IdeaProjects/linkeTinderMVP/lib/groovy-console-4.0.14.jar" />
+  </library>
+</eclipse-userlibraries>
+
