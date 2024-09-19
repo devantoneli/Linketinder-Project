@@ -25,7 +25,7 @@ class Main {
 print """
 LinkeTinder - Raiza Antoneli
 1 - Ver empresas cadastradas
-2 - Ver candatos cadastrados
+2 - Ver candidatos cadastrados
 3 - Cadastrar novo candidato
 4 - Cadastrar nova empresa
 5 - Sair
@@ -63,9 +63,32 @@ LinkeTinder - Raiza Antoneli
                     print "Digite as competências, separando-as por vírgula: "
                     List<String> competencias = ler.nextLine().split(",\\s*")
                     Candidato novoCandidato = new Candidato(nome, email, cpf, idade, estado, cep, descricao, competencias);
+                    candidatos.add(novoCandidato);
                     print "Candidato cadastrado com sucesso! Digite o próximo comando: "
                     op = ler.nextInt();
-                    candidatos.add(novoCandidato);
+                    break
+                }case 4: {
+                    ler.nextLine()
+                    print "Nome: "
+                    String nome = ler.nextLine()
+                    print "Email: "
+                    String email = ler.nextLine()
+                    print "CNPJ: "
+                    String cnpj = ler.nextLine()
+                    print "Pais: "
+                    String pais = ler.nextLine()
+                    print "Estado: "
+                    String estado = ler.nextLine()
+                    print "CEP: "
+                    String cep = ler.nextLine()
+                    print "descricao: "
+                    String descricao = ler.nextLine()
+                    print "Digite as competências, separando-as por vírgula: "
+                    List<String> competencias = ler.nextLine().split(",\\s*")
+                    Empresa novaEmpresa = new Empresa(nome, email, cnpj, pais, estado, cep, descricao, competencias);
+                    empresas.add(novaEmpresa);
+                    print "Empresa cadastrada com sucesso! Digite o próximo comando: "
+                    op = ler.nextInt();
                     break
                 }
             }
