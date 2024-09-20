@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="linkTinderTestes" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-20T00:33:05" hostname="raiza-antoneli-Nitro-AN517-54" time="0.124">
+  <properties/>
+  <testcase name="testeSetEmpresa" classname="linkTinderTestes" time="0.124"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
